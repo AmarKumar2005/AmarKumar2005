@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning advanced JavaScript and exploring backend technologies.
 - 👯 I’m looking to collaborate on open source projects.
 - 💬 Ask me about web development, JavaScript, and Python.
-- 📫 How to reach me: amar.kumar@example.com
+- 📫 How to reach me: amar_2312res96@iitp.ac.in
 - ⚡ Fun fact: I love solving puzzles and playing chess.
 
 ## Skills
@@ -30,8 +30,8 @@
 
 ## How to Reach Me
 
-- Email: amar.kumar@example.com
-- LinkedIn: [Amar Kumar](www.linkedin.com/in/amar-kumar-3800592a6)
+- Email: amar_2312res96@iitp.ac.in
+- LinkedIn: [Amar Kumar](https://www.linkedin.com/in/amar-kumar-3800592a6/)
 - Twitter: [@AmarKumar2005](https://x.com/KumarAmar28490)
 
 Thanks for visiting my profile! 😊
